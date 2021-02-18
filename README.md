@@ -21,7 +21,7 @@ const aboutMe = {
       }
    },
    currentOccupation: ["Mobile Technician, open for job opportunities"],
-   challenge: "I'm building a React Proyect to help some people in their jobs 😉",
+   challenge: "I'm building a React Proyect to help some people in their jobs",
 };
 ```
 
