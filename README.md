@@ -39,7 +39,7 @@ const aboutMe = {
 
 </p>
 
-<div align="center"><img alt="Ernesto Abreu's Stats" src="https://github-readme-stats.vercel.app/api?username=ernestoabreu98&hide=smalltalk&theme=react&show_icons=true&layout=default&hide_border=true" width="500"/><img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoabreu98&theme=react&layout=compact" /></div> 
+<div align="center"><img alt="Ernesto Abreu's Stats" src="https://github-readme-stats.vercel.app/api?username=ernestoabreu98&hide=smalltalk&theme=react&show_icons=true&layout=default&hide_border=true" width="500"/><img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoabreu98&theme=react&layout=compact" width="500"/></div> 
 <div align="center"><h3>I'm willing to collaborate as a team player building better code, so let's build it together</h3></div>
 <div align="center"><h3>Happy Coding 👋</h3></div>
 <!---
