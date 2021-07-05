@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github profile. I'm Ernesto Abreu</h1>
-<h3 align="center">JR Web Developer</h3>
+<h3 align="center">Android Developer</h3>
 <div align="center"><img align="center" height="250" width="250" src="https://pbs.twimg.com/profile_images/1253421767168671748/SR9uee6c_400x400.jpg"</img></div>
 
 <div align="center"><div><h3>Contact Me:</h3></div>
