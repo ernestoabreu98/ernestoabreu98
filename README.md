@@ -10,33 +10,15 @@
 </p>
 </div>
 
-```javascript
-const aboutMe = {
-   code: [HTML, CSS, Javascript],
-   technologies: {
-      frontEnd: {
-         js: ["React (Learning)"],
-         css: ["Bootstrap", "Material UI (Learning)"],
-         tools: ["npm", "git"]
-      }
-   },
-   currentOccupation: ["Mobile Technician, open for job opportunities"],
-   challenge: "I'm building a React Proyect to help some people in their jobs",
-};
-```
-
 <h2 align="center">
   Technologies:
 </h2>
 <p align="center">
-<code><img height="75" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code> &nbsp;&nbsp
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code> &nbsp;&nbsp
+<code><img height="75" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="75" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code> &nbsp;&nbsp;
-
 </p>
 
 <div align="center"><img alt="Ernesto Abreu's Stats" src="https://github-readme-stats.vercel.app/api?username=ernestoabreu98&hide=smalltalk&theme=react&show_icons=true&layout=default&hide_border=true" width="500"/><img height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoabreu98&theme=react&layout=compact" width="500"/></div> 
