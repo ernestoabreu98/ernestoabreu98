@@ -14,8 +14,9 @@
   Technologies:
 </h2>
 <p align="center">
-<code><img height="75" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></code> &nbsp;&nbsp
-<code><img height="75" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/android/android-tile.svg"></code> &nbsp;&nbsp
+<code><img height="75" src="https://logowik.com/content/uploads/images/compose-multiplatform9337.logowik.com.webp"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="75" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> &nbsp;&nbsp;
